@@ -2,6 +2,8 @@ div{
   background-color: brown;
   color:cornsilk;
   text-align: center;
+  margin: 10px;
+  border: 2px solid black;
 }
 body{
   background-color: pink;
