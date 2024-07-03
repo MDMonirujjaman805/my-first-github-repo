@@ -8,3 +8,10 @@ div{
 body{
   background-color: pink;
 }
+.class{
+  text-align: left;
+}
+/* div{
+  width: 100px;
+  height: 100px;
+} */
